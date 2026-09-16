@@ -1,30 +1,16 @@
----
-name: Loose Threads
-tagline: Meme / graphic tees dropshipping store — Shopify + AutoDS
-stage: Pre-launch (store not yet public)
-health: amber
-updated: 2026-09-13
-owner_tool: Claude Code (~/grind-season-theme) + Shopify connector
-next: Finish theme edits, launch store, first ad campaign for US Q4
----
-## Now
-- Theme pulled locally; editing with Claude Code and previewing via `shopify theme dev`
-- Custom domain loosethreadsco.shop claimed
-- 74 SKUs loaded via AutoDS
+# Loose Threads
 
-## Blocked
-- Store not launched — needs theme finalised and shipping rates reviewed
+**Status:** Live · Q4 US push
+**Health:** 🟡 Running
+**Updated:** 2026-09-16
 
-## Done recently
-- Shopify store created on Basic plan (AUD)
-- AutoDS description template and bulk pricing workflows debugged
-- Claude connected to Shopify admin
+Shopify store, meme/graphic tees, targeting US Q4. Running on AutoDS.
 
-## Numbers
-- Orders: 0
-- Revenue: $0
-- Ad spend: $0
+## State
+- Active Shopify store, 74 SKUs
+- Meme / graphic tees, US market
+- Fulfilment via AutoDS
 
-## Later
-- Facebook/TikTok ads for Q4 US
-- Loox reviews
+## Notes
+- Sits under Pinnacle Enterprises Group Pty Ltd
+- No recent changes this cycle — focus has been on Planr and company setup
