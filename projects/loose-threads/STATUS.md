@@ -1,16 +1,18 @@
-# Loose Threads
+---
+name: Loose Threads
+tagline: Shopify store, meme and graphic tees, US Q4
+health: amber
+stage: Live, running on AutoDS
+next: No active work this cycle — focus is on Planr and company setup
+updated: 2026-09-16
+owner_tool: Stuart + AutoDS
+---
 
-**Status:** Live · Q4 US push
-**Health:** 🟡 Running
-**Updated:** 2026-09-16
+## Now
+- Ticking over, no active changes
 
-Shopify store, meme/graphic tees, targeting US Q4. Running on AutoDS.
+## Done recently
+- Active store, 74 SKUs, US market
 
-## State
-- Active Shopify store, 74 SKUs
-- Meme / graphic tees, US market
-- Fulfilment via AutoDS
-
-## Notes
-- Sits under Pinnacle Enterprises Group Pty Ltd
-- No recent changes this cycle — focus has been on Planr and company setup
+## Later
+- Revisit after Planr v1.1 ships

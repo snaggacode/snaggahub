@@ -1,26 +1,29 @@
-# Pinnacle Enterprises Group Pty Ltd
+---
+name: Pinnacle Enterprises Group Pty Ltd
+tagline: Holding company for Planr, Loose Threads, future ventures
+health: amber
+stage: Registered, structuring in progress
+next: Send Louis the loan-agreement approach and GSA question, start D-U-N-S
+updated: 2026-09-16
+owner_tool: Stuart + Louis (solicitor)
+---
 
-**Status:** Company registered · structuring in progress
-**Health:** 🟡 In setup
-**Updated:** 2026-09-16
+## Now
+- Send Louis loan-agreement approach plus priority/GSA question
+- Get licence-agreement quote
+- Start D-U-N-S application for Apple Org conversion
+- Find accountant, decide bookkeeping platform
+- Sign loan agreement, make initial 15k transfer
 
-Holding company for multiple ventures (Planr, Loose Threads, future). Transition from sole trader.
+## Done recently
+- Company registered — ACN 702 365 160, WA, 15/09/2026
+- Sole director/secretary/member, 50 ordinary shares
+- Company ABN and TFN issued, Director ID obtained
+- Director loan agreement and bookkeeping workbook drafted
 
-## Done
-- Company registered — ACN 702 365 160, WA, 15/09/2026. Sole director/secretary/member, 50 ordinary shares (100%)
-- Company ABN and TFN issued; Director ID obtained
-- Not registered for GST (under $75k threshold)
+## Blocked
+- Apple Org conversion waiting on D-U-N-S number (long lead time)
 
-## In progress
-- IP: licence, not assignment — licence Planr IP to the company (Stuart keeps ownership) to wall it off from other ventures. Licence agreement not yet quoted.
-- Director's loan agreement — Louis quoted $220. Draft prepared: $15k initial + $1,000/month, interest-free, on demand, with register and resolution
-- Funding via director's loans; bookkeeping workbook set up
-- Apple account — still individual, needs converting to Organisation (D-U-N-S first — long pole)
-- Bookkeeping — interim spreadsheet; find accountant before committing to Xero
-
-## Next
-- [ ] Send Louis: loan-agreement approach + priority/GSA question (GSA not needed yet)
-- [ ] Get licence-agreement quote
-- [ ] Start D-U-N-S application
-- [ ] Find accountant, decide platform
-- [ ] Sign loan agreement, make initial $15k transfer (ref "Director loan SJB")
+## Later
+- Convert App Store Connect to Organisation
+- Execute IP licence once quoted
